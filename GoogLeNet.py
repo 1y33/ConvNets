@@ -73,3 +73,4 @@ class GoogLeNet(nn.Module):
         x = self.fc(x)
 
         return x
+
